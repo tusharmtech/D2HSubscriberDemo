@@ -1,6 +1,6 @@
 # D2HSubscriberDemo
 This is a D2H subscriber Console Application where User can check the subscriptions Packs ,  recharge the account and 
-Subscriber the packs , channels and Servies.
+Subscribe the packs , channels and Servies.
 #Getting Started
 Once you run the project , Application will show you operation which User can Perform.
 it will  be look like: 
